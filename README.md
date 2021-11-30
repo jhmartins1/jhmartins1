@@ -5,7 +5,7 @@
 
 ![João Heitor GitHub stats](https://github-readme-stats.vercel.app/api?username=jhmartins1&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhmartins1&layout=compact)](https://github.com/jhmartins1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhmartins1&layout=compact&theme=tokyonight)](https://github.com/jhmartins1/github-readme-stats)
 
 
 ## Tecnologias
