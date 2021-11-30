@@ -2,7 +2,8 @@
 I'm Web developer back-end, Currently working as a free-lancer and studying
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhmartins1)
-[![Youtube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jh.martins1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jh.martins1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhmartinsrdo@gmail.com)
 
 ![João Heitor GitHub stats](https://github-readme-stats.vercel.app/api?username=jhmartins1&show_icons=true&theme=tokyonight)
 
