@@ -1,4 +1,4 @@
-Hi, I'm João Heitor, a 23 year old Brazilian back-end developer. I specialize in the MERN stack and have been developing for several years. I'm passionate about creating efficient and reliable applications that are easy to use and maintain. If you need help with your back-end development projects, feel free to reach out!
+Hi, I'm João Heitor, a 23 year old Brazilian full-stack developer. I specialize in the MERN stack and have been developing for several years. I'm passionate about creating efficient and reliable applications that are easy to use and maintain. If you need help with your development projects, feel free to reach out!
 <br>
 <div align="center">
 
