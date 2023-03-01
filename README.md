@@ -32,3 +32,6 @@ Hi, I'm João Heitor, a 23 year old Brazilian full-stack developer. I specialize
 <a href="https://www.linkedin.com/in/jhmartins1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
+<div align="center"> 
+   <img src="https://user-images.githubusercontent.com/78935085/222021934-00a63ed9-34a7-4c80-8cfa-701dc0a27a10.png" width="600px" />
+</div>
