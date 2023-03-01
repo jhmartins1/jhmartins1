@@ -33,5 +33,6 @@ Hi, I'm João Heitor, a 23 year old Brazilian full-stack developer. I specialize
 </div>
 
 <div align="center"> 
-   <img src="https://user-images.githubusercontent.com/78935085/222021934-00a63ed9-34a7-4c80-8cfa-701dc0a27a10.png" width="600px" />
+   <img src="https://user-images.githubusercontent.com/78935085/222022242-d589a61e-9a5d-4eef-a829-aa760b48a932.png" width="600px" />
 </div>
+
