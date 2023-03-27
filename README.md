@@ -7,15 +7,13 @@
 <code><img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
 <code><img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
 <code><img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code><img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
   
 ### Tools:
 <code><img width="3%" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></code>
 <code><img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <code><img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></code>
-  
-### Studying in this moment:
-<code><img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"></code>
 <code><img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code>
 </div>
